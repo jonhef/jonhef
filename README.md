@@ -34,6 +34,10 @@
 ![rog](https://img.shields.io/badge/rog-000080?style=for-the-badge&logo=republic-of-gamers&logoColor=white)
 ![openvpn](https://img.shields.io/badge/openvpn-000080?style=for-the-badge&logo=openvpn&logoColor=white)
 
+### About me
+
+My real name is Dmitry. I am 15 (my birthday is 8th may 2009). Now I am studying in the [school Letovo](https://letovo.ru/) that is located in Moscow.
+
 
 ### Follow me
 [![youtube](https://img.shields.io/badge/youtube-000080?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jonhef)
