@@ -25,6 +25,16 @@
 - *html, css, js* `(june 2024)`
 - *SQL* `(june 2023 - august 2023)`
 
+**tools**
+
+![macos](https://img.shields.io/badge/macos-000080?style=for-the-badge&logo=macos&logoColor=white)
+![linux](https://img.shields.io/badge/kali-000080?style=for-the-badge&logo=linux&logoColor=white)
+![vscode](https://img.shields.io/badge/visual%20studio%20code-000080?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![virtualbox](https://img.shields.io/badge/virtualbox-000080?style=for-the-badge&logo=virtualbox&logoColor=white)
+![rog](https://img.shields.io/badge/rog-000080?style=for-the-badge&logo=republic-of-gamers&logoColor=white)
+![openvpn](https://img.shields.io/badge/openvpn-000080?style=for-the-badge&logo=openvpn&logoColor=white)
+
+
 ### Follow me
-[![youtube](https://img.shields.io/badge/youtube-000080?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@jonhef)
-[![telegram](https://img.shields.io/badge/telegram-000080?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/fx8320)
+[![youtube](https://img.shields.io/badge/youtube-000080?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jonhef)
+[![telegram](https://img.shields.io/badge/telegram-000080?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fx8320)
