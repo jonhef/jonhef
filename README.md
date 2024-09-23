@@ -4,7 +4,7 @@
 
 
 ## [My projects](https://github.com/jonhef?tab=repositories)
-[![madeinhellOS](https://img.shields.io/badge/madeinhellOS-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2pvbmhlZi9tYWRlaW5oZWxsT1MvNmQyMDc5ZmU0NDdiY2Y0MzY3YzE1ZmNjNzIyNWFkMzU1M2EwNjZmMy9sb2dvLnN2Zw==)](https://github.com/jonhef/madeinhellOS)
+[![madeinhellOS](https://img.shields.io/badge/madeinhellOS-000000?style=for-the-badge&logo=data:image/svg;base64,aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2pvbmhlZi9tYWRlaW5oZWxsT1MvNmQyMDc5ZmU0NDdiY2Y0MzY3YzE1ZmNjNzIyNWFkMzU1M2EwNjZmMy9sb2dvLnN2Zw==)](https://github.com/jonhef/madeinhellOS)
 - [CalculatorDLL](https://github.com/jonhef/CalculatorDLL)
 - [smshubapi](https://github.com/jonhef/smshubapi)
 - [innohotel(My diploma project in STEP)](https://github.com/jonhef/innohotel)
