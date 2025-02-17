@@ -1,7 +1,6 @@
 # jonhef
-
-![jonhef](https://github.com/jonhef/Jonhef/blob/main/%D0%9D%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82(3).png?raw=true)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonhef&theme=github&hide_border=true)
+![jonhef's github stats](https://github-readme-stats.vercel.app/api?username=jonhef&theme=catppuccin_mocha&show_icons=true)
 
 ## [My projects](https://github.com/jonhef?tab=repositories)
 [![madeinhellOS](https://img.shields.io/badge/madeinhellOS-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDMwMDAgMzAwMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiPgoJPHRpdGxlPtCd0L7QstGL0Lkg0L/RgNC+0LXQutGCPC90aXRsZT4KCTxzdHlsZT4KCQl0c3BhbiB7IHdoaXRlLXNwYWNlOnByZSB9IAoJCS5zMCB7IGZpbGw6ICMwMDAwMDAgfSAKCQkudDEgeyBmb250LXNpemU6IDIwMDBweDtmaWxsOiAjZmZmZmZmO2ZvbnQtd2VpZ2h0OiA0MDA7Zm9udC1mYW1pbHk6ICJCYXNrZXJ2dmlsbGVTQy1SZWd1bGFyIiwgIkJhc2tlcnZ2aWxsZSBTQyIgfSAKCTwvc3R5bGU+Cgk8cGF0aCBpZD0i0YTQvtGA0LzQsCAxIiBjbGFzcz0iczAiIGQ9Im0zNjkwLTI0OHYzNzI3aC00MTUydi0zNzI3eiIvPgoJPHRleHQgaWQ9Ik0iIHN0eWxlPSJ0cmFuc2Zvcm06IG1hdHJpeCgxLDAsMCwxLDUyNSwyMjEwKSIgPgoJCTx0c3BhbiB4PSIwIiB5PSIwIiBjbGFzcz0idDEiPk0KPC90c3Bhbj4KCTwvdGV4dD4KPC9zdmc+&logoColor=white)](https://github.com/jonhef/madeinhellOS)
@@ -21,11 +20,13 @@
 ![js](https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![assembly](https://img.shields.io/badge/assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![golang](https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - *C++* `(since october 2021)`
 - *C and Assembly* `(since august 2023)`
 - *Python* `(june 2021 - august 2023)`
 - *html, css, js* `(june 2024)`
 - *SQL* `(june 2023 - august 2023)`
+- *GO* `(since february 2025)` I hate this language as much as java
 
 **tools**
 
@@ -47,7 +48,7 @@
 
 ### About me
 
-My real name is Dmitry. I am 15 (my birthday is 8th may 2009). Now I am studying in the [school Letovo](https://letovo.ru/) that is located in Moscow.
+My real name is Dmitry. I am 15 (my birthday is 8th may 2009). I am studying at the [school Letovo](https://letovo.ru/) that is located in Moscow.
 
 ***My favorite quote***
 > Когда я умер,
@@ -58,5 +59,6 @@ My real name is Dmitry. I am 15 (my birthday is 8th may 2009). Now I am studying
 
 
 ### Follow me
-[![youtube](https://img.shields.io/badge/youtube-000080?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jonhef)
-[![telegram](https://img.shields.io/badge/telegram-000080?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fx8320)
+[![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jonhef)
+[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fx8320)
+[![mailboxdotorg](https://img.shields.io/badge/EMAIL%20ME-005FF9?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:me@jonhef.org)
