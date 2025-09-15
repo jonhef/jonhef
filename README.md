@@ -1,8 +1,8 @@
 #### heey
-![jonhef's github stats](https://github-readme-stats.vercel.app/api?username=jonhef&theme=catppuccin_latte&show_icons=true&hide=prs,contribs)
+![jonhef's github stats](https://github-readme-stats.vercel.app/api?username=jonhef&theme=catppuccin_latte&show_icons=true&hide=prs,contribs&card_width=300)
 ![jonhef's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhef&layout=compact&langs_count=5&custom_title=most%20used%20languages)
 
-#### [My projects](https://github.com/jonhef?tab=repositories)
+#### [projects](https://github.com/jonhef?tab=repositories)
 [![madeinhellOS](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=madeinhellos)](https://github.com/jonhef/madeinhellOS)
 [![shiny-engine](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=shiny-engine)](https://github.com/jonhef/shiny-engine)
 [![smshubapi](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=smshubapi)](https://github.com/jonhef/smshubapi)
