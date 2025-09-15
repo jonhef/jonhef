@@ -1,6 +1,6 @@
 <h2 align="center">Hey there</h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jonhef&theme=catppuccin_latte&show_icons=true&hide=prs,contribs&card_width=300" width=48%>
+    <img src="https://github-readme-stats.vercel.app/api?username=jonhef&show_icons=true&hide=prs,contribs&card_width=300&rank_icon=github" width=48%>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhef&layout=compact&langs_count=5&custom_title=most%20used%20languages" width=30%>
 </p>
 
@@ -41,9 +41,6 @@
 my real name is dmitry. i am 16 (my birthday is 8th may 2009). i am studying at the [school letovo](https://letovo.ru/) that is located in moscow.
 
 ***My favorite quotes***
-> когда я умер,
-> не было никого,
-> кто бы это опроверг
 
 > да какая же жизнь, если праздника нет?
 > такая жизнь и нахуй не нужна!
