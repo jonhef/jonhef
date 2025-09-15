@@ -1,26 +1,14 @@
-# jonhef
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonhef&theme=github&hide_border=true)
-![jonhef's github stats](https://github-readme-stats.vercel.app/api?username=jonhef&theme=catppuccin_mocha&show_icons=true)
+#### heey
+![jonhef's github stats](https://github-readme-stats.vercel.app/api?username=jonhef&theme=catppuccin_latte&show_icons=true&hide=prs,contribs)
+![jonhef's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhef&layout=compact&langs_count=5&custom_title=most%20used%20languages)
 
-## [My projects](https://github.com/jonhef?tab=repositories)
-[![madeinhellOS](https://img.shields.io/badge/madeinhellOS-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDMwMDAgMzAwMCIgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiPgoJPHRpdGxlPtCd0L7QstGL0Lkg0L/RgNC+0LXQutGCPC90aXRsZT4KCTxzdHlsZT4KCQl0c3BhbiB7IHdoaXRlLXNwYWNlOnByZSB9IAoJCS5zMCB7IGZpbGw6ICMwMDAwMDAgfSAKCQkudDEgeyBmb250LXNpemU6IDIwMDBweDtmaWxsOiAjZmZmZmZmO2ZvbnQtd2VpZ2h0OiA0MDA7Zm9udC1mYW1pbHk6ICJCYXNrZXJ2dmlsbGVTQy1SZWd1bGFyIiwgIkJhc2tlcnZ2aWxsZSBTQyIgfSAKCTwvc3R5bGU+Cgk8cGF0aCBpZD0i0YTQvtGA0LzQsCAxIiBjbGFzcz0iczAiIGQ9Im0zNjkwLTI0OHYzNzI3aC00MTUydi0zNzI3eiIvPgoJPHRleHQgaWQ9Ik0iIHN0eWxlPSJ0cmFuc2Zvcm06IG1hdHJpeCgxLDAsMCwxLDUyNSwyMjEwKSIgPgoJCTx0c3BhbiB4PSIwIiB5PSIwIiBjbGFzcz0idDEiPk0KPC90c3Bhbj4KCTwvdGV4dD4KPC9zdmc+&logoColor=white)](https://github.com/jonhef/madeinhellOS)
-[![CalculatorDLL](https://img.shields.io/badge/calculatordll-008000?style=for-the-badge)](https://github.com/jonhef/CalculatorDLL)
-[![smshubapi](https://img.shields.io/badge/smshubapi-FF8000?style=for-the-badge)](https://github.com/jonhef/smshubapi)
-[![innohotel](https://img.shields.io/badge/innohotel-1030AA?style=for-the-badge)](https://github.com/jonhef/innohotel)
+#### [My projects](https://github.com/jonhef?tab=repositories)
+[![madeinhellOS](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=madeinhellos)](https://github.com/jonhef/madeinhellOS)
+[![shiny-engine](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=shiny-engine)](https://github.com/jonhef/shiny-engine)
+[![smshubapi](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=smshubapi)](https://github.com/jonhef/smshubapi)
+[![innohotel](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=innohotel)](https://github.com/jonhef/innohotel)
 
-## Languages and Skills
-![POSTGRESQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![js](https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![assembly](https://img.shields.io/badge/assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![golang](https://img.shields.io/badge/GOLANG-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+#### languages
 - *C++* `(since october 2021)`
 - *C and Assembly* `(since august 2023)`
 - *Python* `(june 2021 - august 2023)`
@@ -28,7 +16,7 @@
 - *SQL* `(june 2023 - august 2023)`
 - *GO* `(since february 2025)` I hate this language as much as java
 
-**tools**
+#### tools
 
 ![macos](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=macos&logoColor=white)
 ![linux](https://img.shields.io/badge/kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -46,19 +34,20 @@
 ![audacity](https://img.shields.io/badge/audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
 
 
-### About me
+#### about me
 
-My real name is Dmitry. I am 15 (my birthday is 8th may 2009). I am studying at the [school Letovo](https://letovo.ru/) that is located in Moscow.
+my real name is dmitry. i am 16 (my birthday is 8th may 2009). i am studying at the [school letovo](https://letovo.ru/) that is located in moscow.
 
-***My favorite quote***
-> Когда я умер,
->
-> Не было никого,
->
-> Кто бы это опроверг
+***My favorite quotes***
+> когда я умер,
+> не было никого,
+> кто бы это опроверг
+
+> да какая же жизнь, если праздника нет?
+> такая жизнь и нахуй не нужна!
 
 
-### Follow me
+### follow me
 [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jonhef)
-[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/fx8320)
+[![telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/myloveillchokeyoutodeath)
 [![mailboxdotorg](https://img.shields.io/badge/EMAIL%20ME-005FF9?style=for-the-badge&logo=mailboxdotorg&logoColor=white)](mailto:me@jonhef.org)
