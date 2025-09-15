@@ -1,12 +1,14 @@
-#### heey
-![jonhef's github stats](https://github-readme-stats.vercel.app/api?username=jonhef&theme=catppuccin_latte&show_icons=true&hide=prs,contribs&card_width=300)
-![jonhef's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonhef&layout=compact&langs_count=5&custom_title=most%20used%20languages)
+<h2 align="center">Hey there</h1>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jonhef&theme=catppuccin_latte&show_icons=true&hide=prs,contribs&card_width=300" width=48%>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhef&layout=compact&langs_count=5&custom_title=most%20used%20languages" width=30%>
+</p>
 
-#### [projects](https://github.com/jonhef?tab=repositories)
-[![madeinhellOS](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=madeinhellos)](https://github.com/jonhef/madeinhellOS)
-[![shiny-engine](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=shiny-engine)](https://github.com/jonhef/shiny-engine)
-[![smshubapi](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=smshubapi)](https://github.com/jonhef/smshubapi)
-[![innohotel](https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=innohotel)](https://github.com/jonhef/innohotel)
+<!-- <h4 align="center"> <a href="https://github.com/jonhef?tab=repositories">projects</a> </h4> -->
+<p align="center">
+    <a href="https://github.com/jonhef/madeinhellOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=madeinhellos&card_width=100px" width=39%></a>
+    <a href="https://github.com/jonhef/shiny-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=shiny-engine" width=39%></a>
+</p>
 
 #### languages
 - *C++* `(since october 2021)`
