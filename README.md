@@ -9,8 +9,7 @@
     <a href="https://github.com/jonhef/madeinhellOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=madeinhellos&card_width=100px" width=39%></a>
     <a href="https://github.com/jonhef/shiny-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=shiny-engine" width=39%></a>
 </p>
-
-====
+<hr>
 
 #### languages
 - *C++* `(since october 2021)`
