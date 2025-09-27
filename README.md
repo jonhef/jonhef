@@ -10,6 +10,8 @@
     <a href="https://github.com/jonhef/shiny-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jonhef&repo=shiny-engine" width=39%></a>
 </p>
 
+====
+
 #### languages
 - *C++* `(since october 2021)`
 - *C and Assembly* `(since august 2023)`
