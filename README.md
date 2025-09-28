@@ -1,4 +1,4 @@
-<h2 align="center">Hey there</h1>
+<h2 align="center">hey there</h1>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jonhef&show_icons=true&hide=prs,contribs&card_width=300&rank_icon=github" width=48%>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhef&layout=compact&langs_count=5&custom_title=most%20used%20languages" width=30%>
