@@ -17,7 +17,7 @@
 - *Python* `(june 2021 - august 2023)`
 - *html, css, js* `(june 2024)`
 - *SQL* `(june 2023 - august 2023)`
-- *GO* `(since february 2025)` I hate this language as much as java
+- *C#* `(since 2024)`
 
 #### tools
 
@@ -39,7 +39,7 @@
 
 #### about me
 
-my real name is dmitry. i am 16 (my birthday is 8th may 2009). i am studying at the [school letovo](https://letovo.ru/) that is located in moscow.
+my real name is dmitry. i am 16 (my birthday is 8th may 2009)
 
 ***My favorite quotes***
 
